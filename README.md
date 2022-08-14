@@ -1,3 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayood)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayood&show_icons=true)
+
 - 👋 Hi, I’m @wayood
 - 👀 I’m interested in haptics, autonomous driving and Totteham Hot Spurs
 - 🌱 I’m currently learning space rover platform
