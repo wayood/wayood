@@ -1,3 +1,4 @@
+<h1 align="center" style="display:none;"></h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayood&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
