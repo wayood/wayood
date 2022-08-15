@@ -10,9 +10,9 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1wwryiz7z21ap0s27uk549xy6)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1wwryiz7z21ap0s27uk549xy6)
 ---
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wayood&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wayood&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>  
 - 👀 I’m interested in haptics, autonomous driving and Totteham Hotspur
 - 🌱 I’m currently learning space rover platform
 
