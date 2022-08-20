@@ -9,8 +9,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1wwryiz7z21ap0s27uk549xy6)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1wwryiz7z21ap0s27uk549xy6)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1wwryiz7z21ap0s27uk549xy6&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1wwryiz7z21ap0s27uk549xy6&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]
+
 ---
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wayood&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>　
 
