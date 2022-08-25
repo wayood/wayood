@@ -17,6 +17,8 @@
 
 - 👀 I’m interested in haptics, autonomous driving and Totteham Hotspur 
 - 🌱 I’m currently learning space rover platform
+-  :running:　I’m currently studying graph theory, path planning and teleoperation.
+
 
 <!---
 wayood/wayood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
